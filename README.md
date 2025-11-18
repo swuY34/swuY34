@@ -1,10 +1,9 @@
 
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=900&size=30&duration=4000&width=435&lines=Hi!+I'm+swuY;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=900&size=30&duration=4000&width=435&lines=Hi!+I'm+swuY;Welcome+to+my+GitHub.)
 
-
-## 🎇My Skill
+### 🛠My Skill
 
 ![IDE](https://go-skill-icons.vercel.app/api/icons?i=pycharm,idea,clion,webstorm,vscode&titles=true)
 
@@ -22,8 +21,15 @@
 
 ------
 
-![swuY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swuY34&count_private=true&show_icons=true&text_color=032030&icon_color=005792&title_color=005792&bg_color=f6f6e9)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swuY34&layout=donut&show_icons=true)
+<p align="center">
+  <a href="https://github.com/swuY34/swuY34">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=swuY34&count_private=true&show_icons=true&text_color=032030&icon_color=005792&title_color=005792&bg_color=f6f6e9"/>
+  </a>
+  <a href="https://github.com/swuY34/swuY34">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swuY34&layout=donut&show_icons=true"/>
+  </a>
+</p>
 
-<img src="5201314.svg" alt="5201314">
-
+<p align="center">
+  <img src="5201314.svg" alt="5201314">
+</p>
